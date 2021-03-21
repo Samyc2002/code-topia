@@ -12,6 +12,8 @@ int main()
     long int j ; // This is also Integer type but for longer digits Integers
     float s; //Stores decimal type values e.g. 3.14
     double t ; // Stores even longer decimals
+    bool x; // Stores boolean values
+    void n; // empty
     // OPERATORS : + , - , * , / , %
     //cout<<a+5<<endl; //This is addition endl = end of line{shifts the end of output to new line}
     //s = 14.05 ;
